@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MySMeritosApp",
+    "slug": "mysmeritosapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.fer.mysmeritosapp",
+      "versionCode": 1
+    }
+  }
+}
